@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./farm-banner.png" alt="Xinyue's Little Farm" width="100%">
+</div>
+
+<div align="center">
 
 # 🌱 Welcome to Xinyue's Little Farm 🌱
 
