@@ -37,17 +37,40 @@ Welcome to my little corner of GitHub, where I document my learning journey, gro
 
 ---
 
+
 ## 🎒 My Inventory
 
-*Tools and skills collected along the journey.*
+<div align="center">
+
+*Tools and skills collected along my journey.*
+
+### 🌿 Currently Equipped
+
+| 🐍 | 🌿 | 📓 |
+|:---:|:---:|:---:|
+| **Python** | **Git & GitHub** | **Obsidian** |
+| Equipped | Equipped | Equipped |
+
+### 🌱 Skills in Progress
+
+| 📊 | 📈 | 🗃️ |
+|:---:|:---:|:---:|
+| **pandas** | **SPSS** | **SQL** |
+| Learning | Learning | Growing |
+
+### ✨ Skill Collection
 
 ![Python](https://img.shields.io/badge/Python-6B8E58?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-C49A6C?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6B8E58?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B6845?style=flat-square&logo=github&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-C49A6C?style=flat-square&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-8B6845?style=flat-square&logo=obsidian&logoColor=white)
+
+*More items will be unlocked along the journey...*
+
+</div>
 
 ---
+
 
 
 ## 🌾 My Farm Projects
