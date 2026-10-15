@@ -38,25 +38,21 @@ Welcome to my little corner of GitHub, where I document my learning journey, gro
 ---
 
 
+
 ## 🎒 My Inventory
 
 <div align="center">
 
 *Tools and skills collected along my journey.*
 
-### 🌿 Currently Equipped
+<img src="./my-inventory.png" alt="My Pixel Art Skill Inventory" width="650">
 
-| 🐍 | 🌿 | 📓 |
-|:---:|:---:|:---:|
-| **Python** | **Git & GitHub** | **Obsidian** |
-| Equipped | Equipped | Equipped |
+*Every new skill is another item unlocked! 🌱*
 
-### 🌱 Skills in Progress
+</div>
 
-| 📊 | 📈 | 🗃️ |
-|:---:|:---:|:---:|
-| **pandas** | **SPSS** | **SQL** |
-| Learning | Learning | Growing |
+---
+
 
 ### ✨ Skill Collection
 
