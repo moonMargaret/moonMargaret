@@ -48,11 +48,9 @@ Welcome to my little corner of GitHub, where I document my learning journey, gro
 <img src="./my-inventory.png" alt="My Pixel Art Skill Inventory" width="650">
 
 *Every new skill is another item unlocked! 🌱*
-
 </div>
 
 ---
-
 
 ### ✨ Skill Collection
 
@@ -62,24 +60,31 @@ Welcome to my little corner of GitHub, where I document my learning journey, gro
 ![Obsidian](https://img.shields.io/badge/Obsidian-8B6845?style=flat-square&logo=obsidian&logoColor=white)
 
 *More items will be unlocked along the journey...*
-
 </div>
 
 ---
 
 
+### 🌾 My Farm Projects
 
-## 🌾 My Farm Projects
+<div align="center">
 
-*The seeds have been planted. More projects coming soon!*
+*Every project starts as a little seed.*
 
-| 🌱 Crop | 📖 Description | 🌤️ Season |
-|:---|:---|:---|
-| Python Practice | Learning Python fundamentals | Growing 🌱 |
-| Data Visualisation | Exploring visual storytelling with data | Growing 🌱 |
-| Data Analysis | Developing analytical skills | Growing 🌱 |
+| 🌱 Project | 📖 Description | 🌤️ Status |
+|:---|:---|:---:|
+| Python Practice | Exploring Python fundamentals and APIs | Growing 🌱 |
+| Data Visualisation | Learning to tell stories through data | Growing 🌱 |
+| Data Analysis | Developing analytical and statistical skills | Growing 🌱 |
+
+<br>
+
+🍓 *More projects will bloom as my journey continues.*
+
+</div>
 
 ---
+
 
 <div align="center">
 
