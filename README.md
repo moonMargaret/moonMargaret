@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./farm-banner.png" alt="Xinyue's Little Farm" width="100%">
+  <img src="./小农场欢迎横幅.png" alt="Xinyue's Little Farm" width="100%">
 </div>
 
 <div align="center">
